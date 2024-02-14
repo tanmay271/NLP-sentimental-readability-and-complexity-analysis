@@ -1,0 +1,1 @@
+Used Web crawling to collect large textual data from over 100 news articles , implemented various NLP techniques to conduct sentimental ,  readablity and complexity analysis on the data calculating various metrics like polarity score , subjectivity score , percentage of complex words , average sentance length.
